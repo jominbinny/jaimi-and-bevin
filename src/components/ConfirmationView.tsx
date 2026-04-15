@@ -21,8 +21,8 @@ export function ConfirmationView() {
                   MAY
                 </p>
               </div>
-              <p className="text-xs text-muted-foreground font-sans">Sunday</p>
-              <p className="text-xs text-muted-foreground font-sans">5 PM</p>
+              <p className="text-sm md:text-base text-muted-foreground font-sans">Sunday</p>
+              <p className="text-sm md:text-base text-muted-foreground font-sans">5 PM</p>
             </div>
 
             {/* Venue */}
@@ -50,14 +50,14 @@ export function ConfirmationView() {
         {/* Contact */}
         <a
           href="tel:+919447608935"
-          className="inline-flex items-center gap-2 text-sm text-foreground/70 font-sans mb-6 hover:text-foreground transition-colors"
+          className="inline-flex items-center gap-2 text-base md:text-lg text-foreground/75 font-sans mb-6 hover:text-foreground transition-colors"
         >
-          <Phone className="w-4 h-4" />
+          <Phone className="w-5 h-5" />
           9447608935
         </a>
 
         {/* Final message */}
-        <p className="text-xs text-muted-foreground font-sans">
+        <p className="text-sm md:text-base text-muted-foreground font-sans">
           See you at the celebration 🎉
         </p>
       </div>
