@@ -15,27 +15,27 @@ export function ConfirmationView() {
             <div className="text-left">
               <div className="border border-border rounded-lg p-3 inline-block mb-2">
                 <p className="font-serif text-3xl font-light text-foreground leading-none">
-                  31
+                  24
                 </p>
                 <p className="text-[10px] tracking-[0.15em] uppercase text-muted-foreground font-sans">
                   MAY
                 </p>
               </div>
               <p className="text-xs text-muted-foreground font-sans">Sunday</p>
-              <p className="text-xs text-muted-foreground font-sans">12 PM</p>
+              <p className="text-xs text-muted-foreground font-sans">5 PM</p>
             </div>
 
             {/* Venue */}
             <div className="text-right flex-1">
               <h4 className="font-serif text-lg font-medium text-foreground mb-0.5">
-                St. George Jacobite Syrian Church
+                Holy Family Church
               </h4>
               <p className="text-xs text-muted-foreground font-sans mb-3">
-                Karingachira, Ernakulam
+                Keecheri, Kanjiramattom
               </p>
 
               <a
-                href="https://maps.google.com/?q=St.+George+Jacobite+Syrian+Church+Karingachira+Ernakulam"
+                href="https://maps.app.goo.gl/cj65Npk1pJU6U9CH7"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 text-xs text-primary font-sans font-medium hover:underline"
@@ -49,11 +49,11 @@ export function ConfirmationView() {
 
         {/* Contact */}
         <a
-          href="tel:+919497192652"
+          href="tel:+919447608935"
           className="inline-flex items-center gap-2 text-sm text-foreground/70 font-sans mb-6 hover:text-foreground transition-colors"
         >
           <Phone className="w-4 h-4" />
-          9497192652
+          9447608935
         </a>
 
         {/* Final message */}

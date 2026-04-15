@@ -31,16 +31,16 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Wedding Invitation — Bevin&Jaimi" },
-      { name: "description", content: "You're invited to the wedding celebration" },
+      { title: "Engagement Invitation — Bevin&Jaimi" },
+      { name: "description", content: "You're invited to the engagement celebration" },
       { name: "author", content: "Suhail & Sahel" },
-      { property: "og:title", content: "Wedding Invitation — Bevin&Jaimi" },
-      { property: "og:description", content: "You're invited to the wedding celebration" },
+      { property: "og:title", content: "Engagement Invitation — Bevin&Jaimi" },
+      { property: "og:description", content: "You're invited to the engagement celebration" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
-      { name: "twitter:title", content: "Wedding Invitation — Bevin&Jaimi" },
-      { name: "twitter:description", content: "You're invited to the wedding celebration" },
+      { name: "twitter:title", content: "Engagement Invitation — Bevin&Jaimi" },
+      { name: "twitter:description", content: "You're invited to the engagement celebration" },
     ],
     links: [
       {

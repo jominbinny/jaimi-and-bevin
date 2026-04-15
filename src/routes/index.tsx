@@ -12,10 +12,10 @@ export const Route = createFileRoute("/")({
   component: WeddingInvitation,
   head: () => ({
     meta: [
-      { title: "Wedding Invitation — Bevin & Jaimi" },
-      { name: "description", content: "You're invited to celebrate the wedding of Bevin Binny & Jaimi Benny. RSVP now!" },
-      { property: "og:title", content: "Wedding Invitation — Bevin & Jaimi" },
-      { property: "og:description", content: "You're invited to celebrate our special day. RSVP now!" },
+      { title: "Engagement Invitation — Bevin & Jaimi" },
+      { name: "description", content: "You're invited to celebrate the engagement of Bevin Binny & Jaimi Benny. RSVP now!" },
+      { property: "og:title", content: "Engagement Invitation — Bevin & Jaimi" },
+      { property: "og:description", content: "You're invited to celebrate our engagement. RSVP now!" },
     ],
   }),
 });
@@ -74,7 +74,7 @@ function WeddingInvitation() {
         {/* Header */}
         <div className="text-center animate-fade-up mb-2">
           <p className="text-[10px] tracking-[0.4em] uppercase text-muted-foreground font-sans">
-            Wedding Invitation
+            Engagement Invitation
           </p>
         </div>
 

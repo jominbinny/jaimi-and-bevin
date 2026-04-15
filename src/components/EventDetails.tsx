@@ -1,6 +1,6 @@
 import { MapPin } from "lucide-react";
 
-const MAPS_LINK = "https://maps.app.goo.gl/SwnDEJZNN2AYmvne7";
+const MAPS_LINK = "https://maps.app.goo.gl/cj65Npk1pJU6U9CH7";
 
 export function EventDetails() {
   return (
@@ -13,12 +13,12 @@ export function EventDetails() {
 
         <div className="flex flex-col items-center">
           <div className="w-20 h-20 rounded-full border-2 border-gold/40 flex items-center justify-center">
-            <span className="font-serif text-4xl font-light text-foreground">31</span>
+            <span className="font-serif text-4xl font-light text-foreground">24</span>
           </div>
         </div>
 
         <div className="text-center">
-          <p className="text-xs tracking-[0.2em] uppercase text-muted-foreground font-sans">12 PM</p>
+          <p className="text-xs tracking-[0.2em] uppercase text-muted-foreground font-sans">5 PM</p>
           <p className="text-xs text-muted-foreground font-sans">Onwards</p>
         </div>
       </div>
@@ -27,7 +27,7 @@ export function EventDetails() {
         <p className="text-xs tracking-[0.2em] uppercase text-muted-foreground font-sans mb-2">
           Ceremony Venue
         </p>
-        <h3 className="font-serif text-xl font-medium text-foreground mb-2">St. George Jacobite Syrian Church</h3>
+        <h3 className="font-serif text-xl font-medium text-foreground mb-2">Holy Family Church</h3>
         <a
           href={MAPS_LINK}
           target="_blank"
@@ -35,7 +35,7 @@ export function EventDetails() {
           className="text-sm text-muted-foreground font-sans inline-flex items-center justify-center gap-1 hover:text-primary transition-colors"
         >
           <MapPin className="w-3.5 h-3.5" />
-          Karingachira, Ernakulam
+          Keecheri, Kanjiramattom
         </a>
       </div>
     </section>
