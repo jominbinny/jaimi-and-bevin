@@ -34,7 +34,7 @@ function WeddingInvitation() {
 
   const handleSubmit = useCallback(async (count: number) => {
   try {
-    await fetch("https://bevin-backend.onrender.com/api/rsvp", {
+    await fetch("https://bevin-backend.onrender.com/api/engagement", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
