@@ -1,6 +1,6 @@
-# Bevin and Jaimi
+# Jaimi and Bevin
 
-A polished wedding invitation web app for Bevin Binny and Jaimi Benny. It includes the event details, countdown, and RSVP flow in a mobile-friendly floral design. The invitation is now fully general and no longer depends on a guest name in the URL.
+A polished engagement invitation web app for Bevin Binny and Jaimi Benny. It includes the event details, countdown, and RSVP flow in a mobile-friendly floral design. The invitation is now fully general and no longer depends on a guest name in the URL.
 
 ## Getting Started
 
