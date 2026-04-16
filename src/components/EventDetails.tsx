@@ -18,7 +18,7 @@ export function EventDetails() {
         </div>
 
         <div className="text-center">
-          <p className="text-sm md:text-base tracking-[0.2em] uppercase text-muted-foreground font-sans">12 PM</p>
+          <p className="text-sm md:text-base tracking-[0.2em] uppercase text-muted-foreground font-sans">5:30 PM</p>
           <p className="text-sm md:text-base text-muted-foreground font-sans">Onwards</p>
         </div>
       </div>

@@ -22,7 +22,7 @@ export function ConfirmationView() {
                 </p>
               </div>
               <p className="text-sm md:text-base text-muted-foreground font-sans">Sunday</p>
-              <p className="text-sm md:text-base text-muted-foreground font-sans">5 PM</p>
+              <p className="text-sm md:text-base text-muted-foreground font-sans">5:30 PM</p>
             </div>
 
             {/* Venue */}
