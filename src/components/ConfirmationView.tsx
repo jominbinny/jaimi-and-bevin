@@ -49,7 +49,7 @@ export function ConfirmationView() {
 
         {/* Contact */}
         <a
-          href="https://wa.me/919447608935?text=Hello%20I%20have%20a%20question%20about%20the%20wedding%20invitation."
+          href="https://wa.me/919447608935?text=Hello%20I%20have%20a%20question%20about%20the%20engagement%20invitation."
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Send a WhatsApp message to 9447608935"
