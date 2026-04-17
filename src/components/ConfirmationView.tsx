@@ -49,14 +49,14 @@ export function ConfirmationView() {
 
         {/* Contact */}
         <a
-          href="https://wa.me/919447608935?text=Hello%20I%20have%20a%20question%20about%20the%20engagement%20invitation."
+          href="https://wa.me/447780344530?text=Hello%20I%20have%20a%20question%20about%20the%20engagement%20invitation."
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Send a WhatsApp message to 9447608935"
+          aria-label="Send a WhatsApp message to +44 7780344530"
           className="inline-flex items-center gap-2 text-base md:text-lg text-foreground/75 font-sans mb-6 hover:text-foreground transition-colors"
         >
           <MessageCircle className="w-5 h-5 text-[#25D366]" />
-          9447608935
+          +44 7780344530
         </a>
 
         {/* Final message */}
